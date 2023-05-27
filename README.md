@@ -34,7 +34,5 @@ Also put in Test Directory.
 Now head towards main.py file after image files in the directories and run the file.
 ## Demo
 
-Insert gif or link to demo
-
 <img width="157" alt="image" src="https://github.com/iamumarjaved/Covid-19-Detection-using-X-rays-with-ML/assets/81705788/7c5c7aea-11cf-4d07-8f6b-3b99e913d6f8">
 
